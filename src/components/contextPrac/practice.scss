@@ -1,0 +1,14 @@
+.practice {
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+button {
+  outline: none;
+  padding: 10px;
+  margin: 10px;
+  background: transparent;
+  border-radius: 6px;
+  border: 1px solid gray;
+}

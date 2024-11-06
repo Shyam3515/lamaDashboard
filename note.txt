@@ -1,0 +1,2 @@
+sass is very easy to use css files without any class names, and we can use nested css files.
+It's really easy to handle global variables and functions.
